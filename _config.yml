@@ -249,7 +249,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: IC Design
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -267,7 +267,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: Stock Portfolio
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -276,7 +276,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: Deep Learning
+      type: talks
     values:
       layout: talk
       author_profile: true
