@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal_Photo.jpg"
+  avatar           : "personal_Photo.png"
   name             : "Muyuan Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Mphil from HKU"
+  bio              : "Mphil in HKU"
   location         : "Hong Kong"
   employer         : "The Univiersity of Hong Kong"
   uri              : # URL
