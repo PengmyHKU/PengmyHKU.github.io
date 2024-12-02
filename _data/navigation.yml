@@ -8,13 +8,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Deep Learning"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "IC Design"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Quant"
     url: /portfolio/
         
   - title: "Blog Posts"
