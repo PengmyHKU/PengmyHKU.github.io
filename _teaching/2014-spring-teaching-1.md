@@ -4,7 +4,7 @@ collection: teaching
 type: "Research Project"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Hong Kong, Electronic Engineering"
-date: 2023-02
+date: 2023-02-15
 location: "Hong Kong"
 ---
 
